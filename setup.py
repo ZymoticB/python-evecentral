@@ -14,7 +14,7 @@ setup(
     keywords = "eve evecentral",
     url = "https://github.com/ZymoticB/python-evecentral",
     packages = ['evecentral'],
-    long_description=read('README.rst')
+    long_description=read('README.rst'),
     classifiers = [
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
